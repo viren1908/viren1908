@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from India , I am a technology enthusiast, keen to explore the depths of Computer science. Currently, I am exploring the field of web development</h3>
 
-img align="right" alt="Coding" width="400" src="[https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)"
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viren1908&label=Profile%20views&color=0e75b6&style=flat" alt="viren1908" /> </p>
 
